@@ -23,7 +23,7 @@ I am a **3rd year undergraduate student specializing in Artificial Intelligence 
 
 📫 **Reach Me At**
 - 📧 [sivabbakkiyan22@gmail.com]  
-- 💼 [http://www.linkedin.com/in/sivabakkiyan-i-2b54a0294]  
+- 💼 [http://www.linkedin.com/in/sivabakkiyan]  
 
 ---
 
