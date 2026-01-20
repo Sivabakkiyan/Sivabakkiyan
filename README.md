@@ -22,7 +22,7 @@ I am a **3rd year undergraduate student specializing in Artificial Intelligence 
 - 📚 **Console-Based Dictionary Project** — A Python application that allows users to add, search, update, and delete words, with a built-in word game  
 
 📫 **Reach Me At**
-- 📧 [sivabbakkiyan22@gmail.com]  
+- 📧 [sivabakkiyan22@gmail.com]  
 - 💼 [http://www.linkedin.com/in/sivabakkiyan]  
 
 ---
