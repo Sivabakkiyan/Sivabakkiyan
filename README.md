@@ -4,12 +4,12 @@
 ---
 
 💡 **About Me**  
-I am a **3rd year undergraduate student specializing in Artificial Intelligence and Machine Learning (AIML)**. I have a solid foundation in core AI/ML concepts and have worked on a variety of academic and personal projects that explore the power of intelligent systems.
+I am a **Final year undergraduate student specializing in Artificial Intelligence and Machine Learning (AIML)**. I have a solid foundation in core AI/ML concepts and have worked on a variety of academic and personal projects that explore the power of intelligent systems.
 
 🛠️ **Technical Skills**
-- **Programming Languages:** Python 🐍, Java ☕  
+- **Programming Languages:** Python 🐍.  
 - **Web Development:** HTML, CSS, SQL  
-- **AI/ML:** Strong grasp of machine learning algorithms, deep learning basics, computer vision, and natural language processing.
+- **AI/ML:** Strong grasp of machine learning algorithms, deep learning , computer vision, and natural language processing.
 
 📌 **What I Do**
 - Build intelligent applications using ML models  
@@ -28,7 +28,7 @@ I am a **3rd year undergraduate student specializing in Artificial Intelligence 
 ---
 
 🔭 **Currently Working On:** Enhancing my AI/ML skillset and contributing to open-source projects  
-🌱 **Learning:** Advanced Deep Learning, MLOps, and NLP  
+🌱 **Learning:** MLOPs 
 📈 **Goals:** Build impactful AI products and publish research-based innovations  
 
 ---
