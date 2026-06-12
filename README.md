@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sivabakkiyan</h1>
-<h3 align="center">A Passionate 3rd Year AIML Student | Future AI Innovator 🚀</h3>
+<h3 align="center">A Passionate Final Year AIML Student | Future AI Innovator 🚀</h3>
 
 ---
 
